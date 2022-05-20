@@ -7,11 +7,11 @@ The app displays a rolodex of Monsters with a search bar. A user can type in the
 
 Key concepts utilized in the development of this project include:
 
-Class and Functional Components
-State and Props
-Component Lifecycle Methods
-Fetch API request
-Promises
-Asynchronous vs. Synchronous events
+* Class and Functional Components
+* State and Props
+* Component Lifecycle Methods
+* Fetch API request
+* Promises
+* Asynchronous vs. Synchronous events
 
 Live version:
